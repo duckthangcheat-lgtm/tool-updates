@@ -1,8 +1,8 @@
 {
-    "version": "2.5.0",
+    "version": "2.6.0",
     "release_date": "2026-08-22",
-    "changelog": "• Nâng cấp hệ thống Smart Farming 2.0 tự động bỏ qua quảng cáo\n• Bổ sung cơ chế chống phát hiện vân tay sinh trắc học\n• Tự động đăng nhập 2FA và giải Captcha Google\n• Tối ưu tốc độ mở trình duyệt và tiết kiệm RAM",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v2.5.0/TooNuoiKenh_GoLoginOrbita.exe",
+    "changelog": "Bản vá nâng cấp 19:32PM 22/8/2026",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v2.6.0/TooNuoiKenh_GoLoginOrbita.exe",
     "file_name": "TooNuoiKenh_GoLoginOrbita.exe",
-    "file_size": 5267883
+    "file_size": 5269304
 }
