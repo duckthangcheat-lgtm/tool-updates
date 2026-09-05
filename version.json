@@ -1,8 +1,8 @@
 {
-    "version": "2.8.0",
-    "release_date": "2026-09-03",
-    "changelog": "- Update Google Patch\n- Kiểm Tra Proxy trong profile để xem tốc độ upload & dowload của proxy như nào\n- Fix lại dấu vân tay google cập nhất bản vá quét căng hơn\n-  0978645231",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v2.8.0/TooNuoiKenh_GoLoginOrbita_2.8.0.exe",
-    "file_name": "TooNuoiKenh_GoLoginOrbita_2.8.0.exe",
-    "file_size": 14586619
+    "version": "2.9.0",
+    "release_date": "2026-09-05",
+    "changelog": "• Tối ưu tốc độ mở trình duyệt và tiết kiệm RAM\n\n• kHÔNG NÊN SỬ DỤNG VPN TRÊN NỀN CHẠY TOOL VÌ BỊ NGẮT KẾT NỐI VỚI CỔNG MẠNG THẬT KHIẾN TOOL LỘ ĐỊA CHỈ IPP THẬT \nGÂY RA NGUY CƠ DIE MAIL DO \" BotGuard kết luận đây là môi trường can thiệp (Tampered / Bot) và chủ động trả về trang thông báo lỗi \nkết nối giả định để chặn giải captcha\".",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v2.9.0/TooNuoiKenh_GoLoginOrbita_2.9.0.exe",
+    "file_name": "TooNuoiKenh_GoLoginOrbita_2.9.0.exe",
+    "file_size": 14588833
 }
