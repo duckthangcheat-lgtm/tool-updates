@@ -1,8 +1,8 @@
 {
-    "version": "3.6.0",
+    "version": "3.7.0",
     "release_date": "2026-09-25",
-    "changelog": "3.6.0",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v3.6.0/TooNuoiKenh-Orbita.exe",
+    "changelog": "• Sửa lỗi xuất profile .zip triệt để (Zero Logout, bảo lưu trọn vẹn cookies và fingerprint)\n• Thêm tùy chọn hộp thoại xóa luôn profile và cache trên ổ cứng\n• Bổ sung phím tắt chuột phải Copy Khóa 2FA và Copy Mail RCV\n• Tự động chuẩn hóa và đổi tên thư mục Profile theo Email đăng nhập\n• Tối ưu hóa hiệu năng mở trình duyệt và nâng cao độ ổn định",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v3.7.0/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 16858079
+    "file_size": 16858241
 }
