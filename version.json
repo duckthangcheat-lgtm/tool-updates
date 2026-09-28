@@ -1,8 +1,8 @@
 {
-    "version": "3.8.0",
-    "release_date": "2026-09-25",
-    "changelog": "• Chuẩn hóa tên file xuất profile .zip theo tên email (ví dụ: agathaocker90_gmail_com.zip)\n• Sửa lỗi xuất profile .zip triệt để (Zero Logout, bảo lưu trọn vẹn cookies và fingerprint)\n• Thêm tùy chọn hộp thoại xóa luôn profile và cache trên ổ cứng\n• Bổ sung phím tắt chuột phải Copy Khóa 2FA và Copy Mail RCV\n• Tự động chuẩn hóa và đổi tên thư mục Profile theo Email đăng nhập\n• Nâng cấp phiên bản v3.8.0 và tối ưu hiệu năng toàn diện",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v3.8.0/TooNuoiKenh-Orbita.exe",
+    "version": "3.9.0",
+    "release_date": "2026-09-28",
+    "changelog": "• Nâng cấp hệ thống Smart Farming 2.0 tự động bỏ qua quảng cáo\n• Bổ sung cơ chế chống phát hiện vân tay sinh trắc học\n• Tự động đăng nhập 2FA và giải Captcha Google\n• Tối ưu tốc độ mở trình duyệt và tiết kiệm RAM",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v3.9.0/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 16858319
+    "file_size": 16894031
 }
