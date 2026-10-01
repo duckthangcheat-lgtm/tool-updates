@@ -1,8 +1,8 @@
 {
-    "version": "3.9.0",
-    "release_date": "2026-09-28",
-    "changelog": "• Nâng cấp hệ thống Smart Farming 2.0 tự động bỏ qua quảng cáo\n• Bổ sung cơ chế chống phát hiện vân tay sinh trắc học\n• Tự động đăng nhập 2FA và giải Captcha Google\n• Tối ưu tốc độ mở trình duyệt và tiết kiệm RAM",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v3.9.0/TooNuoiKenh-Orbita.exe",
+    "version": "4.0.0",
+    "release_date": "2026-10-01",
+    "changelog": "• Nâng cấp phiên bản v4.0.0 ổn định cao\n• Tối ưu luồng mở trình duyệt siêu tốc, chỉ mở đúng 1 cửa sổ\n• Tự động nhận diện và kiểm tra tốc độ Proxy tức thì (<0.3s)\n• Khắc phục hoàn toàn xung đột luồng khi Nuôi Cookie (Warmup)\n• Đảm bảo tính nhất quán nút Mở/Đóng và chống mở đè profile\n• Trình duyệt chạy ổn định, bền bỉ, loại bỏ hiện tượng tự đóng",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.0.0/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 16894031
+    "file_size": 11509091
 }
