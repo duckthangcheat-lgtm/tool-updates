@@ -1,8 +1,8 @@
 {
-    "version": "4.3.0",
+    "version": "4.3.1",
     "release_date": "2026-10-12",
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.3.0:\n- Khắc phục triệt để lỗi không có mạng / ERR_FAILED khi mở nhiều trình duyệt đồng thời.\n- Tối ưu hóa Local Proxy Bridge: Sử dụng socket.create_connection thích ứng linh hoạt, kích hoạt kết nối Upstream khi có dữ liệu thật (tiết kiệm connection limit cho Proxy 4G).\n- Chuyển cơ chế phân giải DNS sang Remote DNS qua Proxy chuẩn Antidetect AdsPower/GoLogin, loại bỏ cờ ép Cloudflare DoH bị nhà mạng chặn.\n- Thêm cơ chế phản hồi HTTP 502 và ghi log cảnh báo chi tiết khi Upstream Proxy từ chối hoặc timeout.\n- Dọn dẹp extension ngầm, đảm bảo 100% độ tương thích Manifest V3 với nhân Chromium 146/139 mới nhất.",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.3.0/TooNuoiKenh-Orbita.exe",
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.3.1:\n- Khắc phục triệt để lỗi YouTube báo 'Không có kết nối Internet' khi mở nhiều trình duyệt.\n- Thêm cờ --disable-quic: Bắt buộc Chromium chạy HTTP/2 và HTTP/1.1 qua Proxy Tunnel thay vì gửi gói UDP QUIC (nguyên nhân chính làm đứt kết nối API YouTube).\n- Nâng cấp luồng truyền dữ liệu LocalProxyBridge sang cơ chế Dual-Thread Stream độc lập: Hỗ trợ TCP Half-Close chuẩn quốc tế, không còn tình trạng đóng socket sớm làm mất phản hồi từ máy chủ.\n- Tăng giới hạn Timeout lên 20.0s giúp các đường truyền Proxy 4G tải trang nặng không bị rớt mạng.",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.3.1/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11521027
+    "file_size": 11521154
 }
