@@ -1,8 +1,8 @@
 {
-    "version": "4.2.0",
-    "release_date": "2026-10-11",
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.2.0:\n- Tối ưu trải nghiệm: Vào thẳng giao diện ngay lập tức (0 delay), không còn popup chờ đợi.\n- Cơ chế xác thực ngầm: Tự động kiểm tra bản quyền ở chế độ chạy nền sau khi vào tool.\n- Khắc phục triệt để lỗi mạng/443 Timeout: Tự động thử lại 3 lần, không khóa oan khi mạng lag.\n- Nâng cấp màn hình Hết hạn: Tự động đóng trình duyệt an toàn chống lạm dụng, hỗ trợ liên hệ Admin 0978645231 và dán Key mới kích hoạt tức thì.\n- Loại bỏ hoàn toàn cảnh báo RequestsDependencyWarning và Exception socket khi tắt trình duyệt.",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.2.0/TooNuoiKenh-Orbita.exe",
+    "version": "4.3.0",
+    "release_date": "2026-10-12",
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.3.0:\n- Khắc phục triệt để lỗi không có mạng / ERR_FAILED khi mở nhiều trình duyệt đồng thời.\n- Tối ưu hóa Local Proxy Bridge: Sử dụng socket.create_connection thích ứng linh hoạt, kích hoạt kết nối Upstream khi có dữ liệu thật (tiết kiệm connection limit cho Proxy 4G).\n- Chuyển cơ chế phân giải DNS sang Remote DNS qua Proxy chuẩn Antidetect AdsPower/GoLogin, loại bỏ cờ ép Cloudflare DoH bị nhà mạng chặn.\n- Thêm cơ chế phản hồi HTTP 502 và ghi log cảnh báo chi tiết khi Upstream Proxy từ chối hoặc timeout.\n- Dọn dẹp extension ngầm, đảm bảo 100% độ tương thích Manifest V3 với nhân Chromium 146/139 mới nhất.",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.3.0/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11520988
+    "file_size": 11521027
 }
