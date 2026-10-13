@@ -1,8 +1,8 @@
 {
-    "version": "4.3.2",
+    "version": "4.4.0",
     "release_date": "2026-10-13",
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.3.2:\n- Khắc phục triệt để lỗi mở từ 2 trình duyệt trở lên bị đơ 'Loading...' và báo 'ERR_TIMED_OUT' trên YouTube.\n- Nâng cấp Local Proxy Bridge sang mô hình Non-blocking Select I/O: Triệt tiêu 100% rò rỉ socket (CLOSE_WAIT) và tự động dọn dẹp các kết nối nhàn rỗi sau 60s.\n- Khắc phục lỗi crash ngầm vòng lặp Accept trên Windows khi client reset gói tin bắt tay TCP.\n- Bypass cơ chế ghi đè Patcher của undetected_chromedriver cho lõi Orbita Driver dùng chung, triệt tiêu lỗi Permission Denied khi chạy đồng thời nhiều profile.\n- Tối ưu hóa Dashboard: Loại bỏ vòng lặp đo tốc độ tự động mỗi 20s để tiết kiệm tối đa băng thông cho proxy 4G/Residential.",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.3.2/TooNuoiKenh-Orbita.exe",
+    "changelog": "🚀 BẢN CẬP NHẬT ĐỘT PHÁ ORBITA ANTIDETECT PRO v4.4.0 (CHUẨN KIẾN TRÚC DETACHED LAUNCHER):\n1. [ĐỘT PHÁ] Tắt Tool Python nhưng toàn bộ trình duyệt vẫn giữ nguyên kết nối mạng và hoạt động bình thường 100%.\n2. [TRIỆT TIÊU LỖI NGHẼN MẠNG] Chuyển đổi toàn bộ sang Native Proxy Authentication qua Extension Manifest V2 persistent và cờ Chromium tiêu chuẩn: Chrome kết nối trực tiếp ra Upstream Proxy qua engine C++, loại bỏ hoàn toàn trung gian socket Python.\n3. [ĐA PROFILE MƯỢT MÀ] Khắc phục triệt để lỗi mở từ 2 profile trở lên bị đơ hoặc không tải được YouTube: Mỗi profile chạy độc lập trên Windows, tận dụng tối đa băng thông mạng.\n4. [DETACHED LAUNCHER THUẦN TÚY] Chế độ mở thủ công buông tay ngay sau khi phóng trình duyệt: Không còn tiến trình Selenium giữ luồng while-True liên tục gây lag CPU và xung đột cổng mạng.\n5. [TỰ ĐỘNG KHÔI PHỤC TRẠNG THÁI] Khi bật lại Tool, hệ thống tự động quét và nhận diện các profile GoLogin Orbita đang mở độc lập ngoài màn hình và cho phép quản lý / đóng mượt mà.\n6. [BẢO TỒN VÂN TAY C++ NATIVE] Toàn bộ giả lập Canvas, WebGL, AudioContext, ClientRects, Fonts, Timezone, Geolocation và WebRTC Replace mode được xử lý 100% trong lõi C++ của GoLogin Orbita.",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.4.0/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11521395
+    "file_size": 11522103
 }
