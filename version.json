@@ -1,8 +1,8 @@
 {
-    "version": "4.3.1",
-    "release_date": "2026-10-12",
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.3.1:\n- Khắc phục triệt để lỗi YouTube báo 'Không có kết nối Internet' khi mở nhiều trình duyệt.\n- Thêm cờ --disable-quic: Bắt buộc Chromium chạy HTTP/2 và HTTP/1.1 qua Proxy Tunnel thay vì gửi gói UDP QUIC (nguyên nhân chính làm đứt kết nối API YouTube).\n- Nâng cấp luồng truyền dữ liệu LocalProxyBridge sang cơ chế Dual-Thread Stream độc lập: Hỗ trợ TCP Half-Close chuẩn quốc tế, không còn tình trạng đóng socket sớm làm mất phản hồi từ máy chủ.\n- Tăng giới hạn Timeout lên 20.0s giúp các đường truyền Proxy 4G tải trang nặng không bị rớt mạng.",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.3.1/TooNuoiKenh-Orbita.exe",
+    "version": "4.3.2",
+    "release_date": "2026-10-13",
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.3.2:\n- Khắc phục triệt để lỗi mở từ 2 trình duyệt trở lên bị đơ 'Loading...' và báo 'ERR_TIMED_OUT' trên YouTube.\n- Nâng cấp Local Proxy Bridge sang mô hình Non-blocking Select I/O: Triệt tiêu 100% rò rỉ socket (CLOSE_WAIT) và tự động dọn dẹp các kết nối nhàn rỗi sau 60s.\n- Khắc phục lỗi crash ngầm vòng lặp Accept trên Windows khi client reset gói tin bắt tay TCP.\n- Bypass cơ chế ghi đè Patcher của undetected_chromedriver cho lõi Orbita Driver dùng chung, triệt tiêu lỗi Permission Denied khi chạy đồng thời nhiều profile.\n- Tối ưu hóa Dashboard: Loại bỏ vòng lặp đo tốc độ tự động mỗi 20s để tiết kiệm tối đa băng thông cho proxy 4G/Residential.",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.3.2/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11521154
+    "file_size": 11521395
 }
