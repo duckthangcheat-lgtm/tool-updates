@@ -1,8 +1,8 @@
 {
-    "version": "4.5.0",
+    "version": "4.5.1",
     "release_date": "2026-10-13",
-    "changelog": "🚀 BẢN CẬP NHẬT ĐỘT PHÁ ORBITA ANTIDETECT PRO v4.5.0 (HỆ THỐNG XÁC THỰC & ĐĂNG NHẬP MỚI):\n1. [GIAO DIỆN ĐĂNG NHẬP HIỆN ĐẠI] Tích hợp ô tài khoản, mật khẩu che ký tự (***) kèm nút icon con mắt 👁️/🔒 ẩn/hiện mật khẩu tiện lợi.\n2. [GHI NHỚ THIẾT BỊ 0 GIÂY] Tùy chọn 'Ghi nhớ ở thiết bị này' - sau khi đăng nhập thành công sẽ lưu xác thực an toàn, các lần mở tool tiếp theo vào thẳng tức thì không mất thời gian chờ đợi.\n3. [TẠO TÀI KHOẢN TRỰC TIẾP] Hỗ trợ tạo tài khoản mới ngay trên giao diện đăng nhập và tab Bản Quyền (Tài khoản, Mật khẩu, Số ngày). Tài khoản tự động đồng bộ về Google Sheets quản trị với trạng thái 'Blocked' để Admin duyệt.\n4. [QUẢN LÝ ĐA THIẾT BỊ (MULTI-DEVICE SLOTS)] Kiểm soát số lượng thiết bị (HWID) theo cấu hình Max Devices trên Google Sheet, hiển thị rõ ràng số thiết bị đang sử dụng (vd: Thiết bị 1/2).\n5. [KIỂM SOÁT BẢO MẬT CHẶT CHẼ] Xác thực mật khẩu nghiêm ngặt, chống bypass khi để trống thông tin, thông báo chi tiết khi tài khoản hết hạn hoặc chưa được kích hoạt.\n6. [TỐI ƯU HIỆU NĂNG NATIVE] Duy trì kiến trúc Detached Launcher độc lập, trình duyệt chạy mượt mà, tắt tool không ảnh hưởng đến các profile đang hoạt động.",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.5.0/TooNuoiKenh-Orbita.exe",
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.5.1 (TỐI ƯU GIAO DIỆN CỬA SỔ TRÌNH DUYỆT):\n1. [NÚT PHÓNG TO HOÀN HẢO] Khắc phục triệt để lỗi nút hình vuông (Maximize) không phóng to được toàn màn hình khi mở trình duyệt Orbita độc lập.\n2. [KHỞI CHẠY TỰ NHIÊN] Trình duyệt mở lên ở kích thước cửa sổ vừa vặn tiêu chuẩn (không ép bung toàn màn hình từ đầu), người dùng có thể bấm nút hình vuông phóng to / thu nhỏ hoặc kéo chỉnh kích thước tự do.\n3. [TỰ ĐỘNG ĐIỀU PHỐI VỊ TRÍ] Xóa bỏ các ràng buộc khóa khung nhìn cứng, bảo đảm nhân Chromium tính toán kích thước cửa sổ chính xác theo màn hình của người dùng.\n4. [TÍCH HỢP TOÀN DIỆN HỆ THỐNG ĐĂNG NHẬP v4.5.0] Duy trì toàn bộ tính năng đăng nhập che mật khẩu có con mắt ẩn/hiện, ghi nhớ thiết bị 0 giây, tạo tài khoản tự động đồng bộ Google Sheets, và quản lý giới hạn thiết bị theo slot.",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.5.1/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11528070
+    "file_size": 11527935
 }
