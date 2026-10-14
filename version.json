@@ -1,8 +1,8 @@
 {
-    "version": "4.5.1",
-    "release_date": "2026-10-13",
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.5.1 (TỐI ƯU GIAO DIỆN CỬA SỔ TRÌNH DUYỆT):\n1. [NÚT PHÓNG TO HOÀN HẢO] Khắc phục triệt để lỗi nút hình vuông (Maximize) không phóng to được toàn màn hình khi mở trình duyệt Orbita độc lập.\n2. [KHỞI CHẠY TỰ NHIÊN] Trình duyệt mở lên ở kích thước cửa sổ vừa vặn tiêu chuẩn (không ép bung toàn màn hình từ đầu), người dùng có thể bấm nút hình vuông phóng to / thu nhỏ hoặc kéo chỉnh kích thước tự do.\n3. [TỰ ĐỘNG ĐIỀU PHỐI VỊ TRÍ] Xóa bỏ các ràng buộc khóa khung nhìn cứng, bảo đảm nhân Chromium tính toán kích thước cửa sổ chính xác theo màn hình của người dùng.\n4. [TÍCH HỢP TOÀN DIỆN HỆ THỐNG ĐĂNG NHẬP v4.5.0] Duy trì toàn bộ tính năng đăng nhập che mật khẩu có con mắt ẩn/hiện, ghi nhớ thiết bị 0 giây, tạo tài khoản tự động đồng bộ Google Sheets, và quản lý giới hạn thiết bị theo slot.",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.5.1/TooNuoiKenh-Orbita.exe",
+    "version": "4.6.0",
+    "release_date": "2026-10-14",
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.6.0 (TÍCH HỢP ĐO TỐC ĐỘ & KIỂM TRA ĐỘ SẠCH PROXY):\n1. [KIỂM TRA ĐỘ SẠCH & UY TÍN PROXY (SCAMALYTICS)] Báo cáo toàn diện mức độ an toàn của Proxy/IP theo chuẩn Scamalytics: Quốc gia, Thành phố, Vùng miền, Hostname, Nhà mạng ISP, Tổ chức Organization, mã ASN, và phát hiện trạng thái Proxy / VPN / TOR.\n2. [TÍNH ĐIỂM GIAN LẬN FRAUD SCORE] Hiển thị trực quan điểm rủi ro Fraud Score (0-100) kèm thang đánh giá chuẩn quốc tế (75+ Nghi ngờ | 85+ Rủi ro | 90+ Rất nguy hiểm) giúp phòng ngừa triệt để checkpoint tài khoản.\n3. [ĐO TỐC ĐỘ SIÊU TỐC MICRO-SPEEDTEST] Tích hợp bộ đo độ trễ Ping (ms), tốc độ Download (Mbps) và Upload (Mbps) qua hạ tầng Cloudflare, tiêu thụ cực thấp (<2MB băng thông), không lo hao tốn dung lượng proxy xoay / 4G.\n4. [TIỆN ÍCH TRẢI NGHIỆM 1 CHẠM] Thêm nút \"🌐 Check\" trực tiếp tại ô Proxy trên từng Profile, tích hợp tùy chọn kiểm tra trên menu chuột phải, hỗ trợ Sao chép toàn bộ báo cáo và Kiểm tra lại chỉ với 1 cú nhấp chuột.\n5. [DUY TRÌ TOÀN DIỆN CÁC TÍNH NĂNG v4.5.1] Tối ưu hóa điều phối cửa sổ trình duyệt Orbita, nút phóng to màn hình tự do, bảo mật đăng nhập có con mắt che/hiển thị mật khẩu, ghi nhớ thiết bị 0 giây và quản lý theo slot thiết bị.",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.6.0/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11527935
+    "file_size": 11533686
 }
