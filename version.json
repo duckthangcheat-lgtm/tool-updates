@@ -1,8 +1,8 @@
 {
-    "version": "4.7.5",
+    "version": "4.7.6",
     "release_date": "2026-10-17",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.7.5/TooNuoiKenh-Orbita.exe",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.7.6/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11561216,
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.7.5 (KHÔI PHỤC HIỂN THỊ GỐC & TỐI ƯU HÓA MẠNG):\n1. [GỠ BỎ HOÀN TOÀN TÍNH NĂNG ĐIỀU CHỈNH KÍCH THƯỚC CỬA SỔ]\n   • Loại bỏ toàn bộ can thiệp kích thước cửa sổ qua CDP Scale và Emulation DeviceMetricsOverride.\n   • Khôi phục 100% cơ chế hiển thị tự nhiên của trình duyệt Orbita.\n\n2. [KHẮC PHỤC TRIỆT ĐỂ LỖI MẠNG & KẾT NỐI INTERNET]\n   • Sửa triệt để lỗi gián đoạn mạng, không load được trang web hoặc ngắt luồng video YouTube (net::ERR_ABORTED).\n   • Trình duyệt mở siêu mượt, kết nối internet qua Proxy hoặc mạng Local đều ổn định tuyệt đối.\n\n3. [TINH GỌN GIAO DIỆN & NÂNG CAO HIỆU NĂNG]\n   • Dọn dẹp các tùy chọn kích thước cửa sổ không cần thiết trong cài đặt.\n   • Kế thừa toàn bộ hệ thống quản lý tài khoản, xác thực bản quyền và auto-updater từ v4.7.4."
+    "file_size": 11561399,
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.7.6 (SỬA TRIỆT ĐỂ LỖI MẠNG YOUTUBE & PROXY/LOCAL DUAL-STACK):\n1. [KHẮC PHỤC TRIỆT ĐỂ LỖI \"CONNECT TO THE INTERNET / YOU'RE OFFLINE\" TRÊN YOUTUBE]\n   • Gỡ bỏ hoàn toàn cờ cấm IPv6 (--disable-features=IPv6). Cho phép Chromium bắt tay song song (Happy Eyeballs Dual-Stack), khớp 100% IP token được ký của luồng phát YouTube CDN.\n   • Video YouTube, âm thanh, quảng cáo và danh sách đề xuất tải siêu mượt, không bị ngắt quãng hoặc dừng luồng.\n\n2. [TỐI ƯU HÓA PHÂN GIẢI DNS & GIAO THỨC KHI CHẠY PROXY / LOCAL]\n   • Gỡ bỏ cờ ép chặn DNS (--host-resolver-rules=MAP * 0.0.0.0). Khôi phục khả năng truy cập mọi trang web và API ngầm khi dùng Proxy.\n   • Mở lại giao thức HTTP/3 QUIC tự nhiên trên mạng Local để đạt tốc độ tải trang tối đa.\n\n3. [LÀM SẠCH CẤU HÌNH PREFERENCES & BẢO MẬT VÂN TAY C++]\n   • Tự động dọn dẹp các cờ chặn UDP (nonproxied_udp_enabled) và mask mạng cũ trong hồ sơ profile.\n   • Giữ nguyên cơ chế ẩn danh WebRTC Replace và Canvas/WebGL Noise tầng C++ siêu ổn định."
 }
