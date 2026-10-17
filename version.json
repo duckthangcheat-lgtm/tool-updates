@@ -1,8 +1,8 @@
 {
-    "version": "4.7.4",
+    "version": "4.7.5",
     "release_date": "2026-10-17",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.7.4/TooNuoiKenh-Orbita.exe",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.7.5/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11564183,
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.7.4 (NÂNG CẤP XÁC THỰC BẢN QUYỀN & MÀN HÌNH HẾT HẠN):\n1. [NÂNG CẤP TOÀN DIỆN MÀN HÌNH BẢN QUYỀN HẾT HẠN (EXPIRED GATEWAY)]\n   • Bổ sung nút [🔄 ĐỔI TÀI KHOẢN / ĐĂNG NHẬP LẠI] nổi bật ngay trên popup hết hạn, cho phép khách hàng quay về màn hình đăng nhập đầy đủ một chạm mà không bị kẹt.\n   • Nâng cấp khung mở khóa nhanh thành 2 ô Tài khoản & Mật khẩu (có icon mắt ẩn/hiện) kèm nút Đăng nhập / Kích hoạt lại ngay tại chỗ.\n   • Khắc phục triệt để lỗi \"Vui lòng nhập tên tài khoản!\" khi kích hoạt từ popup hết hạn.\n\n2. [TƯƠNG THÍCH HOÀN HẢO GOOGLE APPS SCRIPT & GOOGLE SHEET]\n   • Đồng bộ chuẩn xác các cột tài khoản: A (Tài khoản), B (Mật khẩu), C (Status Active/Blocked), D (HWID), E (Hạn dùng), F/G (Số thiết bị tối đa).\n   • Backend chấp nhận linh hoạt cả username lẫn key để tương thích 100% với các bảng dữ liệu cũ và mới.\n\n3. [KẾ THỪA TOÀN BỘ TÍNH NĂNG v4.7.3]\n   • Tự động đồng bộ và di chuyển dữ liệu khi đổi tên Profile (không cần ký tự '@', an toàn dữ liệu 100%).\n   • Khóa an toàn Auto-Updater không ghi đè script khi chạy trực tiếp từ mã nguồn Python."
+    "file_size": 11561216,
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.7.5 (KHÔI PHỤC HIỂN THỊ GỐC & TỐI ƯU HÓA MẠNG):\n1. [GỠ BỎ HOÀN TOÀN TÍNH NĂNG ĐIỀU CHỈNH KÍCH THƯỚC CỬA SỔ]\n   • Loại bỏ toàn bộ can thiệp kích thước cửa sổ qua CDP Scale và Emulation DeviceMetricsOverride.\n   • Khôi phục 100% cơ chế hiển thị tự nhiên của trình duyệt Orbita.\n\n2. [KHẮC PHỤC TRIỆT ĐỂ LỖI MẠNG & KẾT NỐI INTERNET]\n   • Sửa triệt để lỗi gián đoạn mạng, không load được trang web hoặc ngắt luồng video YouTube (net::ERR_ABORTED).\n   • Trình duyệt mở siêu mượt, kết nối internet qua Proxy hoặc mạng Local đều ổn định tuyệt đối.\n\n3. [TINH GỌN GIAO DIỆN & NÂNG CAO HIỆU NĂNG]\n   • Dọn dẹp các tùy chọn kích thước cửa sổ không cần thiết trong cài đặt.\n   • Kế thừa toàn bộ hệ thống quản lý tài khoản, xác thực bản quyền và auto-updater từ v4.7.4."
 }
