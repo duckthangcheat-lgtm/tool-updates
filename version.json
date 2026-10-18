@@ -1,8 +1,8 @@
 {
-    "version": "4.7.8",
+    "version": "4.7.9",
     "release_date": "2026-10-18",
-    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.7.8/TooNuoiKenh-Orbita.exe",
+    "download_url": "https://github.com/duckthangcheat-lgtm/tool-updates/releases/download/v4.7.9/TooNuoiKenh-Orbita.exe",
     "file_name": "TooNuoiKenh-Orbita.exe",
-    "file_size": 11561898,
-    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.7.8 (BẢO TOÀN TRẠNG THÁI CHỌN PROFILE KHI CHUYỂN BỘ LỌC NHÓM):\n1. [KHẮC PHỤC TRIỆT ĐỂ LỖI MẤT DẤU TÍCH CHỌN KHI CHUYỂN VỀ TẤT CẢ NHÓM]\n   • Bảo toàn 100% trạng thái checked của các Profile khi người dùng lọc theo nhóm, tích chọn tất cả hoặc chọn tùy ý, sau đó đổi dropdown bộ lọc về \"Tất cả nhóm\" hoặc các nhóm khác.\n   • Khắc phục sự cố onGroupFilterChanged tự động xóa dấu chọn, giúp quy trình chọn lọc theo nhóm và thao tác hàng loạt (Mở đã chọn, Nuôi cookie, Chuyển nhóm...) hoạt động chính xác và liền mạch.\n\n2. [TỐI ƯU CƠ CHẾ CHỌN TẤT CẢ TRÊN HEADER BẢNG]\n   • Tinh chỉnh nút checkbox Chọn Tất Cả trên đầu bảng: Chỉ tác động lên các Profile đang hiển thị theo bộ lọc hiện tại, không làm mất dấu chọn của các nhóm khác.\n   • Hiển thị trạng thái phân nhánh chuẩn xác (Indeterminate) khi danh sách đang có một phần Profile được chọn."
+    "file_size": 11561856,
+    "changelog": "🚀 BẢN CẬP NHẬT ORBITA ANTIDETECT PRO v4.7.9 (SỬA NÚT IMPORT PROXY & CHUẨN HÓA ĐỊNH VỊ TỈNH/THÀNH PHỐ PROXY):\n1. [KHẮC PHỤC TRIỆT ĐỂ LỖI NÚT 'IMPORT TXT PROXY' KHÔNG HOẠT ĐỘNG]\n   • Di chuyển khung modal Import Proxy vào đúng cây DOM của cửa sổ chính, giúp nút 'Import TXT Proxy' trên thanh công cụ phản hồi ngay lập tức khi bấm.\n   • Hỗ trợ đầy đủ việc chọn file TXT từ máy tính hoặc dán danh sách proxy theo thứ tự tuần tự hoặc theo số thứ tự STT Profile.\n\n2. [NÂNG CẤP CHUẨN XÁC ĐỊNH VỊ ĐỊA LÝ PROXY VIỆT NAM & QUỐC TẾ]\n   • Tích hợp hệ thống phân giải địa lý độ chính xác cao IP2Location kết hợp dự phòng ipwho.is, khắc phục triệt để tình trạng Scamalytics tự động gán nhầm mọi IP Việt Nam thành 'Hà Nội'.\n   • Nhận diện chuẩn xác 100% các Tỉnh/Thành phố trên cả nước (Bình Dương, TP. Hồ Chí Minh, Đồng Nai, Vĩnh Phúc, Bắc Ninh, Hà Nội,...) và nhà mạng (Viettel, VNPT, FPT,...).\n   • Khắc phục lỗi hiển thị Quốc gia bị nhân đôi chữ mã quốc gia (VN VN) trên hệ điều hành Windows, định dạng trang nhã chuẩn: 'Việt Nam (VN)'."
 }
